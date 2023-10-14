@@ -34,16 +34,11 @@ Python's extensive libraries facilitate data manipulation and analysis. This ver
 
 Predicting stock prices, like Tesla's (NYSE: TSLA), is a complex task that combines financial indicators, market sentiment, and historical data. Python's Yahoo API scraping plays a crucial role in this process:
 
-**1. Historical Data Analysis**
-
+1. **Historical Data Analysis**
 By scraping historical closing prices and volume data, analysts can identify trends, patterns, and potential correlations that influence Tesla's stock performance. This historical context is fundamental for predictive modeling.
-
-**2. Sentiment Analysis Integration**
-
+2. **Sentiment Analysis Integration**
 Python's Yahoo API can be used to gather news headlines related to Tesla. Sentiment analysis techniques, such as VADER, can assess the sentiment (positive, neutral, or negative) and compound scores of these headlines. Correlating this sentiment data with stock price movements helps gauge the impact of media coverage on Tesla's stock.
-
-**3. Machine Learning Models**
-
+3. **Machine Learning Models**
 Python provides a wide range of machine learning libraries for building predictive models. Combining historical data, sentiment analysis results, and machine learning models enables analysts to create robust predictive models for Tesla's stock prices.
 
 ### Time Series Modeling, LINE-M Assumptions, & Use Cases
