@@ -19,18 +19,13 @@ Python, with its vast ecosystem of libraries and tools, has become a preferred l
 
 ### Python's Yahoo API Scraping
 
->> **1. Accessibility and Convenience**
+1. **Accessibility and Convenience**
 Python's Yahoo API scraping provides convenient access to a wealth of financial data. It allows users to retrieve historical stock prices, financial indicators, and news headlines with just a few lines of code. This accessibility streamlines data collection for analysis.
-
->> **2. Timeliness of Data**
+2. **Timeliness of Data**
 The Yahoo API provides real-time and historical data, ensuring that analysts and traders have access to up-to-date information for making informed decisions. This timeliness is critical for predicting stock prices accurately.
-
-**3. Cost-Effectiveness**
-
+3. **Cost-Effectiveness**
 Compared to other financial data providers, Yahoo's API is often cost-effective or even free. This affordability encourages individuals, analysts, and researchers to use Python for financial analysis without incurring substantial data acquisition costs.
-
-**4. Versatility**
-
+4. **Versatility**
 Python's extensive libraries facilitate data manipulation and analysis. This versatility allows analysts to perform various data transformations and calculations effortlessly.
 
 # [Problem Statement](#section-title)
