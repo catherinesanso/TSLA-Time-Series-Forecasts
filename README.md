@@ -5,6 +5,7 @@ Catherine Sanso <br>
 ## Table of Contents:
 
 1. [Background](#section-title)
+1. [Problem Statement](#section-title)
 1. [Research Approach](#section-title)
 1. [Data Dictionary](#section-title)
 1. [Discussion & Recommendations](#section-title)
@@ -33,6 +34,8 @@ Compared to other financial data providers, Yahoo's API is often cost-effective 
 **4. Versatility**
 
 Python's extensive libraries facilitate data manipulation and analysis. This versatility allows analysts to perform various data transformations and calculations effortlessly.
+
+# [Problem Statement](#section-title)
 
 ### Predicting Tesla's Closing Prices
 
