@@ -13,7 +13,7 @@ Catherine Sanso <br>
 1. [Sources](#section-title)
 1. [Licensing](#section-title)
 
-# [Background](#section-title)
+# [Background](#section-title) 
 
 Python, with its vast ecosystem of libraries and tools, has become a preferred language for financial analysis and prediction. Among its many applications, scraping financial data using Yahoo's API has gained popularity due to several advantages. This research explores the benefits of Python's Yahoo API scraping, focusing on its utility in predicting Tesla's closing prices, incorporating sentiment analysis, and explores  time series modeling, its assumptions, various methods, and its advantages and limitations.
 
